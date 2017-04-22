@@ -1,0 +1,1 @@
+/home/konny/git/Piramide/build/CMakeFiles/piramide.dir
